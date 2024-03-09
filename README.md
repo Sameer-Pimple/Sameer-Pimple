@@ -33,5 +33,5 @@
 
 <br clear="both">
 
-<img src="https://github.com/Sameer-Pimple/Sameer-Pimple/blob/main/snake.yml)https://github.com/Sameer-Pimple/Sameer-Pimple/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Sameer-Pimple/Sameer-Pimple/blob/main/.github/workflows/main.yml" alt="Snake animation" />
 
