@@ -1,3 +1,4 @@
+![logo](https://github.com/Sameer-Pimple/Sameer-Pimple/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Sameer Pimple</h1>
 <h3 align="center">A passionate Software Developer from Nagpur</h3>
 
