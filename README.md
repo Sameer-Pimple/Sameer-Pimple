@@ -31,7 +31,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer-pimple&&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="sameer-pimple" /></p>
 
-<br clear="both">
+## Snake Eating My Contribution graph
+![snake gif](https://github.com/Sameer-Pimple/Sameer-Pimple/blob/output/github-contribution-grid-snake.gif)
 
-<img src="https://github.com/Sameer-Pimple/Sameer-Pimple/blob/main/.github/workflows/main.yml" alt="Snake animation" />
+
 
